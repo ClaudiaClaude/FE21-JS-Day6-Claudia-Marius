@@ -1,0 +1,71 @@
+let employee = `[{
+    "Id": "alk435",
+    "fName": "Patrik",
+    "lName": "John",
+    "email": "pjohn@gmail.com",
+    "job": "IT",
+    "sal": "30000"
+}, {
+    "Id": "uiz987",
+    "fName": "Maria",
+    "lName": "Gill",
+    "email": "mgill@gmail.com",
+    "job": "Marketing",
+    "sal": "40000"
+}, {
+    "Id": "oiu856",
+    "fName": "John",
+    "lName": "Doe",
+    "email": "jdoe@gmail.com",
+    "job": "IT",
+    "sal": "35000"
+}, {
+    "Id": "jsh853",
+    "fName": "Dani",
+    "lName": "Matth",
+    "email": "dmatth@gmail.com",
+    "job": "IT",
+    "sal": "38000"
+}, {
+    "Id": "iuz264",
+    "fName": "Eti",
+    "lName": "Rossi",
+    "email": "erossi@gyahoo.com",
+    "job": "IT",
+    "sal": "37000"
+}, {
+    "Id": "pou879",
+    "fName": "Rossana",
+    "lName": "Rossi",
+    "email": "rrossi@yahoo.com",
+    "job": "IT",
+    "sal": "50000"
+}, {
+    "Id": "oiu897",
+    "fName": "Alex",
+    "lName": "Nam",
+    "email": "anam@gmail.com",
+    "job": "Graphic",
+    "sal": "30000"
+}, {
+    "Id": "wer249",
+    "fName": "Matthea",
+    "lName": "Lizz",
+    "email": "mlizz@gmail.com",
+    "job": "IT",
+    "sal": "45000"
+}, {
+    "Id": "vzs635",
+    "fName": "Marta",
+    "lName": "Bissel",
+    "email": "mbissel@gmail.com",
+    "job": "IT",
+    "sal": "30000"
+} , {
+    "Id": "muz057",
+    "fName": "Tom",
+    "lName": "Hanks",
+    "email": "tomhanks@gmail.com",
+    "job": "Actor",
+    "sal": "too much for us"
+}]`
