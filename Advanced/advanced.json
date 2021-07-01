@@ -1,0 +1,29 @@
+let booklist = `[{
+    "Image": "https://cdn.pixabay.com/photo/2014/08/16/18/17/book-419589_960_720.jpg",
+    "Title": "Javascript for Dummies",
+    "Author": "Dummy dumb dumb",
+    "Read": "false"
+},
+
+{
+    "Image": "https://cdn.pixabay.com/photo/2016/03/27/19/32/book-1283865_960_720.jpg",
+    "Title": "Html for Dummies",
+    "Author": "Dummy dumb dumb",
+    "Read": "true"  
+},
+
+{
+    "Image": "https://cdn.pixabay.com/photo/2015/11/19/21/11/atlas-1052011_960_720.jpg",
+    "Title": "CSS for Dummies",
+    "Author": "Dummy dumb dumb",
+    "Read": "false"
+},
+
+{
+    "Image": "https://cdn.pixabay.com/photo/2018/01/17/18/43/book-3088775_960_720.jpg",
+    "Title": "64",
+    "Author": "Hideo Yokoyama",
+    "Read": "true"
+}]`
+      
+
